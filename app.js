@@ -7,7 +7,7 @@ function processData(userInput) {
     
     const data = {
         admin: false,
-        key: "SECRET_TOKEN_123456"
+        AWS_ACCESS_KEY_ID = "AKIAIOSFODNN7EXAMPLE",
         
     };
 
